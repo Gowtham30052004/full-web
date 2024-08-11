@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "../../html"
+		},
+		{
+			"path": "../../login html"
+		},
+		{
+			"path": "../../login1"
+		},
+		{
+			"path": "../../datapattern"
+		},
+		{
+			"path": "../../protfolio"
+		},
+		{
+			"path": "../../Cotact us"
+		},
+		{
+			"path": "../../try"
+		},
+		{
+			"path": "../../suppliers"
+		},
+		{
+			"path": "../../servies"
+		},
+		{
+			"path": "../../image gallery"
+		},
+		{
+			"path": "../../carrer"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../r"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "company web"
+	}
+}

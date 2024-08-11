@@ -1,0 +1,184 @@
+body{
+    margin: 29px;
+    width: 1190px;
+   
+}
+
+div{
+    float: left
+}
+.header
+{  
+    width: 100%;
+    height:auto;
+}
+.logo
+{
+    
+    width: 100%;;
+    height: 100%;
+}
+.imgl{
+       width:20%;
+       height:50%;
+}
+.name
+{  font-family: arial;
+    padding-left:5px;
+    padding-top: 30px;  
+    font-size: 22px;
+    color: #505050;
+    unicode-bidi: isolate;
+}
+
+.search
+{    
+    padding-top: 50px;
+    margin-left: 250px;
+}
+.searchsize
+{
+   padding-left: 5px;
+    border: 1px solid #b02923;
+    
+    height: 28px;
+    
+}
+.searchsize:hover
+{
+    border-color: black;
+}
+.searchbutton
+{  border:none;
+    border-color: #b02923;
+    margin-left: 2px;
+    background-color:#b02923;
+    color: aliceblue;
+    border-style: solid;
+    height: 28px;
+   
+}
+.topics
+{
+    width: 1190px; 
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color:black ;
+    padding-left: 15px;
+ 
+    text-decoration: none;
+     
+}
+
+.suptopics a{
+    display: block;
+    text-align: center;
+    color: white;
+    font-family: arial;
+    font-size: 14px;
+    margin-right: 30px;
+    text-decoration: none;
+ padding: 8px;
+
+}
+.suptopics:hover
+{
+    background-color:#b02923 ;
+}
+.list
+{    
+    display:none;
+    position:absolute;
+    padding-top:1px;
+    width:250px;
+    
+   
+}
+.list a{
+    text-decoration: none;
+    display: block;
+    background-color:  #9e1e18;
+    padding: 8px;
+     text-align: left;
+    color: white;
+    border-bottom: 1px dotted #ef6f69;
+    
+}
+
+
+.suptopics:hover .list
+{
+    display: block;
+}
+.list a:hover
+{
+    background-color:#b02923;
+}
+
+.circult1,.circultimg
+{padding-top: 2px;
+    width: 1205px;
+    height: 350px;
+   
+}
+.circultimg
+{
+    display: none;
+}
+.imglist
+{
+    padding-top:10px;
+}
+.imgli
+{
+   padding-left: 1px;
+
+}
+.i{
+    background-color:#b02923;
+    position: absolute;
+    color: white;
+    padding: 5px;
+    padding-left: 10px;
+    width: 150px;
+    font-family: arial;
+
+}
+#line {
+    height: 20px;
+    width: 1205px;
+}
+#line1 {
+    background-color: #e29b9a;
+    height: 1px;
+    width: 1205px;
+}
+.buttom
+{
+    padding-left:50px;
+}
+
+.buttom a,.buttom1 a
+{
+    text-decoration: none;
+    display: block;
+    font-family: arial;
+    padding: 3px;
+    color: #505050;
+    border-bottom: 1px dotted #878484;
+    Font-size: 11px;
+    width:153px;
+}
+.print
+{
+    background-color:#1d1d1d;;
+    color: #909090;
+    width: 1175px;
+    Font-size: 11px;
+    font-family: arial;
+    padding-left: 30px; 
+}
+.buttom a:hover,.buttom1 a:hover{
+    color:#b02923 ;
+}
